@@ -1,7 +1,6 @@
 Sub StockTrade()
 
 'Part 1: Ticker Symbol & Vol.
-'Part 2: Yearly_change calculation and format
 
     For Each ws In Worksheets
     
